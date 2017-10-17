@@ -33,5 +33,6 @@ public class Main {
         System.out.println("\nYour deck sorted again:\n");
         deck.sort(typeOfDeck);
         deck.write(typeOfDeck);
+        System.out.println("Konflikt na GitHubie");
     }
 }
